@@ -1,0 +1,5 @@
+test.txt 
+random1MB.bin 
+random10MB.bin 
+photo.jpg
+COMPX234-A4_ Assignment 4 specification.pdf
